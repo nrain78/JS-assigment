@@ -1,0 +1,17 @@
+h1 {
+    background-color: rgb(170, 243, 246);
+    color: black;
+}
+h2 {
+    background-color: rgb(202, 237, 202);
+}
+table {
+    width: 30%;
+    margin-top: 20px;
+    border-collapse: collapse;
+}
+th, td {
+    border: 1px solid black;
+    padding: 10px;
+    text-align: center;
+}
